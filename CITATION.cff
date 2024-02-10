@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Higgs-Dataset-Classification-Project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jonah
+    family-names: Fischer
+    email: jonah.fischer@bolzmann.de
+    name-particle: Jonah
+repository-code: >-
+  https://github.com/jf1scher/Higgs-Dataset-Classification-Project
